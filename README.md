@@ -1,3 +1,3 @@
 # Hacktoberfest2020
 
-- [Fawaz AR]
+- [Fawaz AR](https://fawazalrasyid.xyz/)
