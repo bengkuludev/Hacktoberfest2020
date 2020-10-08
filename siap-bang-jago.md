@@ -1,1 +1,2 @@
-[siap-bg-jago]
+[hi bang]
+[ajarin ngoding bang]
